@@ -1,11 +1,11 @@
-# Trabajo Práctic N°1
+# Trabajo Práctico N°1
 
 Hacer el refactor del codigo de "Resolución_Final_Informatica_1" utilizando estructuras, funciones y separación de archivos [ver codigo original](https://github.com/DamRCorba/Informatica-2/blob/main/02_Estructuras/ejemplos/Ejemplo3/main.c)
 
 - Crear archivos funciones.c funciones.h
     
     * En funciones.c se deben desarollar las funciones
-    * En funciones.h se deberan agregar los prototipos, definiciones y demas  constantes
+    * En funciones.h se deberan agregar los prototipos, definicionesgit stat y demas  constantes
 - Modificar el codigo para el uso de estructuras
 - Entregar el codigo y un readme explicativo en un repositorio git nuevo
 
